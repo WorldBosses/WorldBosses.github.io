@@ -1,0 +1,322 @@
+Front_VFX.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+	scale: 0.75
+VFX_Burst/Burst_01
+	bounds: 994, 384, 66, 48
+	offsets: 4, 27, 245, 127
+VFX_Burst/Burst_02
+	bounds: 1943, 349, 164, 87
+	offsets: 27, 9, 245, 127
+	rotate: 90
+VFX_Burst/Burst_03
+	bounds: 1538, 969, 178, 102
+	offsets: 39, 6, 245, 127
+VFX_Burst/Burst_04
+	bounds: 1755, 0, 182, 111
+	offsets: 47, 4, 245, 127
+	rotate: 90
+VFX_Burst/Burst_05
+	bounds: 1642, 8, 184, 113
+	offsets: 54, 7, 245, 127
+	rotate: 90
+VFX_Burst/Burst_06
+	bounds: 1866, 3, 179, 112
+	offsets: 58, 9, 245, 127
+	rotate: 90
+VFX_Burst/Burst_08
+	bounds: 1441, 189, 171, 100
+	offsets: 64, 16, 245, 127
+VFX_Burst/Burst_09
+	bounds: 1939, 513, 149, 94
+	offsets: 66, 20, 245, 127
+	rotate: 90
+VFX_Burst/Burst_10
+	bounds: 442, 14, 87, 91
+	offsets: 129, 21, 245, 127
+	rotate: 90
+VFX_Burst/Burst_11
+	bounds: 2036, 1411, 12, 12
+	offsets: 135, 57, 245, 127
+VFX_Burst/Burst_12
+	bounds: 1763, 1489, 9, 9
+	offsets: 138, 59, 245, 127
+VFX_Crack/Crack_3
+	bounds: 0, 1923, 555, 125
+	offsets: 0, 6, 555, 131
+VFX_Impact/Impact_01
+	bounds: 1612, 192, 153, 143
+	offsets: 8, 33, 269, 231
+VFX_Impact/Impact_02
+	bounds: 1065, 13, 168, 201
+	offsets: 8, 8, 269, 231
+	rotate: 90
+VFX_Impact/Impact_03
+	bounds: 747, 1395, 217, 205
+	offsets: 1, 6, 269, 231
+	rotate: 90
+VFX_Impact/Impact_04
+	bounds: 1763, 1279, 224, 205
+	offsets: 1, 6, 269, 231
+VFX_Impact/Impact_05
+	bounds: 1370, 507, 229, 204
+	offsets: 3, 7, 269, 231
+	rotate: 90
+VFX_Impact/Impact_06
+	bounds: 1370, 736, 233, 203
+	offsets: 8, 7, 269, 231
+	rotate: 90
+VFX_Impact/Impact_07
+	bounds: 1153, 1441, 235, 203
+	offsets: 15, 7, 269, 231
+	rotate: 90
+VFX_Impact/Impact_08
+	bounds: 1751, 870, 211, 201
+	offsets: 42, 8, 269, 231
+VFX_Impact/Impact_09
+	bounds: 952, 1436, 240, 201
+	offsets: 16, 10, 269, 231
+	rotate: 90
+VFX_Impact/Impact_10
+	bounds: 1184, 1697, 238, 206
+	offsets: 19, 8, 269, 231
+VFX_Impact/Impact_11
+	bounds: 1752, 1071, 214, 208
+	offsets: 45, 6, 269, 231
+VFX_Impact/Impact_12
+	bounds: 1534, 1286, 229, 212
+	offsets: 31, 5, 269, 231
+VFX_Impact/Impact_13
+	bounds: 1538, 1071, 214, 215
+	offsets: 48, 4, 269, 231
+VFX_Impact/Impact_14
+	bounds: 1266, 8, 178, 224
+	offsets: 87, 3, 269, 231
+	rotate: 90
+VFX_Impact/Impact_15
+	bounds: 1751, 644, 178, 226
+	offsets: 88, 2, 269, 231
+VFX_Impact/Impact_16
+	bounds: 1573, 740, 178, 229
+	offsets: 89, 0, 269, 231
+VFX_Impact/Impact_17
+	bounds: 1574, 511, 177, 229
+	offsets: 91, 0, 269, 231
+VFX_Impact/Impact_18
+	bounds: 0, 5, 98, 229
+	offsets: 170, 1, 269, 231
+	rotate: 90
+VFX_Impact/Impact_19
+	bounds: 229, 27, 76, 213
+	offsets: 193, 18, 269, 231
+	rotate: 90
+VFX_Slash/Slash_02
+	bounds: 1746, 338, 197, 170
+	offsets: 7, 104, 227, 283
+VFX_Slash/Slash_03
+	bounds: 1370, 969, 168, 234
+	offsets: 40, 41, 227, 283
+VFX_Slash/Slash_04
+	bounds: 746, 101, 207, 258
+	offsets: 1, 16, 227, 283
+VFX_Slash/Slash_05
+	bounds: 1521, 1874, 174, 254
+	offsets: 42, 14, 227, 283
+	rotate: 90
+VFX_Slash/Slash_06
+	bounds: 1370, 1203, 164, 246
+	offsets: 57, 11, 227, 283
+VFX_Slash/Slash_07
+	bounds: 1356, 1449, 164, 228
+	offsets: 57, 11, 227, 283
+VFX_Slash/Slash_08
+	bounds: 1441, 289, 161, 218
+	offsets: 59, 8, 227, 283
+VFX_Slash/Slash_09
+	bounds: 1765, 182, 156, 209
+	offsets: 60, 8, 227, 283
+	rotate: 90
+VFX_Slash/Slash_10
+	bounds: 1490, 0, 152, 189
+	offsets: 61, 8, 227, 283
+VFX_Slash/Slash_11
+	bounds: 1602, 335, 144, 176
+	offsets: 62, 9, 227, 283
+VFX_Slash/Slash_13
+	bounds: 1966, 1124, 82, 155
+	offsets: 124, 12, 227, 283
+VFX_Slash/Slash_14
+	bounds: 1962, 897, 78, 146
+	offsets: 127, 12, 227, 283
+VFX_Slash2/Slash2_1
+	bounds: 1987, 1423, 61, 61
+	offsets: 15, 282, 182, 362
+VFX_Slash2/Slash2_2
+	bounds: 1966, 1043, 82, 81
+	offsets: 10, 278, 182, 362
+VFX_Slash2/Slash2_3
+	bounds: 1751, 508, 136, 188
+	offsets: 15, 174, 182, 362
+	rotate: 90
+VFX_Slash2/Slash2_4
+	bounds: 1235, 1903, 145, 286
+	offsets: 15, 76, 182, 362
+	rotate: 90
+VFX_Slash2/Slash2_5
+	bounds: 555, 1916, 132, 351
+	offsets: 29, 5, 182, 362
+	rotate: 90
+VFX_Slash2/Slash2_6
+	bounds: 906, 1935, 113, 329
+	offsets: 47, 2, 182, 362
+	rotate: 90
+VFX_Slash2/Slash2_7
+	bounds: 953, 89, 112, 270
+	offsets: 42, 2, 182, 362
+VFX_Slash2/Slash2_8
+	bounds: 1422, 1677, 99, 226
+	offsets: 40, 8, 182, 362
+VFX_Slash2/Slash2_9
+	bounds: 1929, 662, 79, 208
+	offsets: 40, 17, 182, 362
+base/dot
+	bounds: 1184, 1914, 21, 21
+	offsets: 2, 2, 25, 24
+base/eff_aura
+	bounds: 1987, 1327, 96, 49
+	rotate: 90
+base/star
+	bounds: 1184, 1676, 15, 15
+vfx/Hand_VFX
+	bounds: 747, 1612, 189, 304
+vfx/charge_1
+	bounds: 1775, 1860, 251, 188
+vfx/charge_11
+	bounds: 994, 1185, 251, 188
+	rotate: 90
+vfx/charge_13
+	bounds: 994, 934, 251, 188
+	rotate: 90
+vfx/charge_15
+	bounds: 994, 683, 251, 188
+	rotate: 90
+vfx/charge_17
+	bounds: 994, 432, 251, 188
+	rotate: 90
+vfx/charge_19
+	bounds: 1521, 1686, 251, 188
+vfx/charge_21
+	bounds: 1772, 1672, 251, 188
+vfx/charge_23
+	bounds: 1065, 181, 251, 188
+	rotate: 90
+vfx/charge_25
+	bounds: 1521, 1498, 251, 188
+vfx/charge_27
+	bounds: 1772, 1484, 251, 188
+vfx/charge_29
+	bounds: 1182, 1190, 251, 188
+	rotate: 90
+vfx/charge_3
+	bounds: 1182, 939, 251, 188
+	rotate: 90
+vfx/charge_5
+	bounds: 1182, 688, 251, 188
+	rotate: 90
+vfx/charge_7
+	bounds: 1182, 437, 251, 188
+	rotate: 90
+vfx/charge_9
+	bounds: 1253, 186, 251, 188
+	rotate: 90
+vfx/fx-ray
+	bounds: 1184, 1691, 237, 6
+vfx/ptc_10
+	bounds: 0, 1663, 249, 260
+vfx/ptc_11
+	bounds: 0, 1403, 249, 260
+vfx/ptc_12
+	bounds: 249, 1663, 249, 260
+vfx/ptc_13
+	bounds: 0, 1143, 249, 260
+vfx/ptc_14
+	bounds: 249, 1403, 249, 260
+vfx/ptc_15
+	bounds: 0, 883, 249, 260
+vfx/ptc_16
+	bounds: 498, 1137, 248, 259
+vfx/ptc_17
+	bounds: 249, 1143, 249, 260
+vfx/ptc_18
+	bounds: 0, 623, 249, 260
+vfx/ptc_19
+	bounds: 498, 878, 248, 259
+vfx/ptc_20
+	bounds: 498, 619, 248, 259
+vfx/ptc_21
+	bounds: 498, 360, 248, 259
+vfx/ptc_22
+	bounds: 498, 101, 248, 259
+vfx/ptc_23
+	bounds: 936, 1676, 248, 259
+vfx/ptc_24
+	bounds: 746, 1136, 248, 259
+vfx/ptc_25
+	bounds: 746, 877, 248, 259
+vfx/ptc_26
+	bounds: 249, 883, 249, 260
+vfx/ptc_27
+	bounds: 746, 618, 248, 259
+vfx/ptc_28
+	bounds: 746, 359, 248, 259
+vfx/ptc_3
+	bounds: 0, 363, 249, 260
+vfx/ptc_4
+	bounds: 249, 623, 249, 260
+vfx/ptc_5
+	bounds: 0, 103, 249, 260
+vfx/ptc_6
+	bounds: 249, 363, 249, 260
+vfx/ptc_7
+	bounds: 249, 103, 249, 260
+vfx/ptc_8
+	bounds: 498, 1656, 249, 260
+vfx/ptc_9
+	bounds: 498, 1396, 249, 260
+
+Front_VFX_2.png
+	size: 1024, 256
+	filter: Linear, Linear
+	pma: true
+	scale: 0.75
+VFX_Burst/Burst_07
+	bounds: 140, 141, 174, 109
+	offsets: 62, 12, 245, 127
+VFX_Slash/Slash_01
+	bounds: 886, 143, 138, 107
+	offsets: 42, 168, 227, 283
+VFX_Slash/Slash_12
+	bounds: 0, 92, 140, 158
+	offsets: 62, 14, 227, 283
+VFX_Stab/Stab_01
+	bounds: 314, 146, 143, 104
+VFX_Stab/Stab_02
+	bounds: 457, 146, 143, 104
+VFX_Stab/Stab_03
+	bounds: 600, 146, 143, 104
+VFX_Stab/Stab_04
+	bounds: 743, 146, 143, 104
+VFX_Stab/Stab_05
+	bounds: 140, 37, 143, 104
+VFX_Stab/Stab_06
+	bounds: 314, 42, 143, 104
+VFX_Stab/Stab_07
+	bounds: 457, 42, 143, 104
+VFX_Stab/Stab_08
+	bounds: 600, 42, 143, 104
+VFX_Stab/Stab_09
+	bounds: 743, 42, 143, 104
+VFX_Stab/Stab_10
+	bounds: 886, 0, 143, 104
+	rotate: 90
